@@ -14,18 +14,6 @@
       "source_commit": "e42f5791fc90792510c6ecdc806b8acbafd6fdd0",
       "source_run_id": "23701928796",
       "source_run_number": "33"
-    },
-    "usercustomize.py": {
-      "name": "usercustomize.py",
-      "version": "33-e42f579",
-      "size": 382543,
-      "sha256": "7b917e24a33eed1eb928be54c82a25dbf19492cb5bff6a746a44c617d6f11b3d",
-      "download_url": "https://raw.githubusercontent.com/gctts/cms-updates/main/usercustomize.py",
-      "updated_at": "2026-03-29T05:15:12Z",
-      "source_repository": "gctts/cms-enhance",
-      "source_commit": "e42f5791fc90792510c6ecdc806b8acbafd6fdd0",
-      "source_run_id": "23701928796",
-      "source_run_number": "33"
     }
   }
 }
