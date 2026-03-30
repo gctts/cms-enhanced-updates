@@ -1,19 +1,19 @@
 {
   "channel": "stable",
-  "generated_at": "2026-03-30T13:22:23Z",
+  "generated_at": "2026-03-30T14:35:08Z",
   "source_repository": "gctts/cms-enhance",
   "targets": {
     "usercustomize.so": {
       "name": "usercustomize.so",
-      "version": "43-33ee315",
-      "size": 4372200,
-      "sha256": "7546b47c770a04b73e8bebef10dde82c88b15892edecfba1f4031f678e458c72",
+      "version": "44-e1d9d4e",
+      "size": 4392680,
+      "sha256": "671338f9c72de928e6f2c3e77563358adde912fe151a4f469974cb45ce930a7c",
       "download_url": "https://raw.githubusercontent.com/gctts/cms-updates/main/usercustomize.so",
-      "updated_at": "2026-03-30T13:22:23Z",
+      "updated_at": "2026-03-30T14:35:08Z",
       "source_repository": "gctts/cms-enhance",
-      "source_commit": "33ee315809bfea6958dbd3dc7a3ac1b232666468",
-      "source_run_id": "23746807597",
-      "source_run_number": "43"
+      "source_commit": "e1d9d4ee231cf8fc153d7130695be6382b8680a8",
+      "source_run_id": "23750234107",
+      "source_run_number": "44"
     }
   }
 }
