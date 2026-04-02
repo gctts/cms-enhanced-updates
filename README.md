@@ -1,7 +1,5 @@
 # CMS 增强插件说明
 
-这是一个面向 `usercustomize.so` 发布产物的 Cloud Media Sync 增强插件。
-
 当前代码实际覆盖 4 块能力：
 - Web 搜索增强
 - Telegram 机器人搜索 / 订阅管理增强
