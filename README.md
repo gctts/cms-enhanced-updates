@@ -202,9 +202,9 @@ services:
 
       # 认证配置
       - AUTH_ENABLED=true
-      - AUTH_USERS=Mike:pCMQ-mbn2cm
+      - AUTH_USERS=xxxxxxxx:xxxxxxx
       - AUTH_TOKEN_EXPIRY=24000
-      - AUTH_JWT_SECRET=CMQ-mbn2cmmjn7qvf
+      - AUTH_JWT_SECRET=CMQ-mbn2cmf.mjn7qvf
     volumes:
       - ./data:/app/data
     restart: unless-stopped
