@@ -150,7 +150,7 @@ TG / 企业微信里，直接发送关键词即可开始搜索。
 ```yaml
 services:
   pansou:
-    image: ghcr.io/gctts/pansou:latest
+    ghcr.io/fish2018/pansou:latest
     container_name: pansou
     labels:
       - "autoheal=true"
