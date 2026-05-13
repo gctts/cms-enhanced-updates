@@ -194,6 +194,8 @@ services:
 
       # 代理配置
       - PROXY=http://10.10.10.20:7890
+      - HTTP_PROXY=http://10.10.10.20:7890
+      - HTTPS_PROXY=http://10.10.10.20:7890
 
       # 健康检查配置
       - HEALTH_CHECK_INTERVAL=30
