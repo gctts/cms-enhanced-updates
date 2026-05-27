@@ -260,7 +260,6 @@ services:
       - PANSO_URL=http://10.10.10.40:23805
       - PANSO_USERNAME=xxxxxxxx
       - PANSO_PASSWORD=xxxxxxx
-      - HDHIVE_API_KEY=xxxxxxxxxxxxxxx
       - GYING_HASH=xxxxxxxxxxxxxxxx
 ```
 
