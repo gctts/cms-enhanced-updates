@@ -252,19 +252,6 @@ services:
 
 ![GYING_HASH 获取示意图](./docs/gying-hash.png)
 
-### CMS 额外环境变量
-
-当前使用的 CMS compose 至少需要补下面 5 个环境变量：
-
-```yaml
-      - PANSO_URL=http://10.10.10.40:23805
-      - PANSO_USERNAME=xxxxxxxx
-      - PANSO_PASSWORD=xxxxxxx
-      - GYING_HASH=xxxxxxxxxxxxxxxx
-```
-
-当前编译产物不再放在仓库根目录，改为放到 GitHub `Releases`。
-
 下载地址：
 - [Latest Release](https://github.com/gctts/cms-enhanced-updates/releases/latest)
 
