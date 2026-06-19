@@ -234,8 +234,7 @@ services:
 ### 影巢
 
 说明：
-- 最小启用条件是 `HDHIVE_API_KEY`
-- `HDHIVE_PROXY` 不填时，会尝试走 CMS 全局代理或直连
+- 复用CMS原盘获取OpenAPI（在转存配置那里完成授权）
 
 ### 观影
 
